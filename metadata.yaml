@@ -1,0 +1,41 @@
+_repo: History-of-the-Incas_20218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sarmiento de Gamboa, Pedro
+    alias: Gamboa, Pedro Sarmiento de
+    gutenberg_agent_id: '9162'
+    url: http://www.gutenberg.org/2009/agents/9162
+  editor:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Sir Clements R. (Clements Robert)
+    - Markham, Clements Robert, Sir
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+description: ''
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20218'
+  lccn: 08004239
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Hakluyt Society, Second Series, no. 22
+subjects:
+- !lcsh 'Tupac Amaru, Inca, -1571'
+- !lcsh 'Indians of South America -- Peru -- History'
+- !lcsh 'Incas -- History'
+- !lcsh 'Peru -- History -- To 1548'
+- !lcsh 'Peru -- History -- Bibliography'
+- !lcc 'F3401'
+title: History of the Incas
+url: http://www.gutenberg.org/ebooks/20218
